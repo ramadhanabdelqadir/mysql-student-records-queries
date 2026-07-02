@@ -46,6 +46,6 @@ Examples included in this project:
 
 This project was completed as part of learning SQL database querying and data analysis using MySQL Workbench.
 
-## Author
+#Author
 
 Ramadhan Abdikadir
