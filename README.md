@@ -5,7 +5,7 @@ A collection of basic MySQL queries demonstrating database creation, data retrie
 
 This project contains basic MySQL queries used to explore and analyze a student records database. It demonstrates fundamental SQL concepts including data retrieval, filtering, sorting, aggregate functions, grouping, and conditional queries.
 
-## Topics Covered
+#Topics Covered
 
 - Creating and selecting a database
 - Retrieving records with SELECT
